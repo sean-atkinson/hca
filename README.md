@@ -1,4 +1,4 @@
-**Quick links:** [One-page summary](SUMMARY.md) • [Slides (v7)](presentation/case_study_v7.pdf)
+**Quick links:** [One-page summary](SUMMARY.md) • [Slides](presentation/case_study_v7.pdf)
 
 # Home Court Advantage in NCAA Basketball: The Unintended Consequence of Rule Changes
 
