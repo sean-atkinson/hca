@@ -3,17 +3,16 @@
 This folder contains the final deck for the case study.
 
 **Files**
-- `case_study_deck.pdf` — final slides, sized for a 10–15 minute talk.
+- `case_study_presentation.pdf` — final slides, sized for a 10–15 minute talk.
 
 **Quick links:** [One-page summary](../SUMMARY.md) • [SQL index](../sql/README.md) • [Docs index](../docs/README.md)
 
-**How to use**
-- Review the one-pager, then open the PDF.
-- Speaker cues align with the deck; longer narrative lives in `docs/NOTES.md`.
+## How to use this repo
 
-**If you update the deck**
-- Export to PDF as `case_study_deck.pdf` (print quality).
-- Keep slide order and chart labelling consistent with the SQL outputs.
+- **2-minute skim:** Read the [one-page summary](SUMMARY.md) → open the deck: [presentation/case_study_deck.pdf](presentation/case_study_deck.pdf).
+- **5-minute detail:** See the [Docs index](docs/README.md) for data source, assumptions, and notes.
+- **Queries:** Browse the [SQL index](sql/README.md). Files are grouped/numbered to mirror the slide flow (e.g., `10_*` season pulse, `20_*` team HRE, `30_*` channels, `40_*` pace, `42–52_*` conference/tier cuts).
+- **Data source:** Google Cloud Public Datasets → [`bigquery-public-data.ncaa_basketball.mbb_games_sr`](https://console.cloud.google.com/marketplace/product/ncaa-bb-public/ncaa-basketball).
 
 ### Slide outline (skim)
 
