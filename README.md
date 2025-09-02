@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="presentation/case_study_deck.pdf">
+    <img src="docs/hero_final_four.jpg" alt="NCAA Final Four court graphic with shot dots" width="100%">
+  </a>
+</p>
+
 # Home Court Advantage in NCAA Basketball: The Unintended Consequence of Rule Changes
 
 **Quick links:** [One-page summary](SUMMARY.md) • [Slides (PDF)](presentation/case_study_deck.pdf) • [SQL folder](sql/README.md)
