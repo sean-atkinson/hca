@@ -337,7 +337,6 @@ ORDER BY
   season;
 
 
--- 21_conference_lift.sql 
 -- 21_conference_lift.sql
 -- Purpose:
 --   Mean team-season points lift by conference group for 2014–2016.
@@ -363,6 +362,7 @@ WITH conf_summary AS (
           WHEN conf_name = 'Mountain West'     THEN 'MWC'
           WHEN conf_name = 'West Coast'        THEN 'WCC'
           WHEN conf_name = 'Atlantic 10'       THEN 'A-10'
+          WHEN conf_name = 'Missouri Valley'   THEN 'MVC'
           ELSE 'Other D-I'
       END AS conference_group,
       ROUND(AVG(points_lift), 2) AS mean_points_lift,
