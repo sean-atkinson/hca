@@ -61,9 +61,9 @@ Systematic investigation ruled out traditional explanations:
 ```
 /sql/           # all queries (setup, season pulse, team HRE, channels, tiers, swaps)
 /presentation/  # final deck (PDF)
-/docs/          # all project notes
+/docs/          # short notes (observations + working)
 /README.md      # this file
-/SUMMARY.md     # 1-page recap (executive view)
+/SUMMARY.md     # 1-page recap
 ```
 
 ## What's Next
