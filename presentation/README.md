@@ -9,9 +9,9 @@ This folder contains the final deck for the case study.
 
 ## How to use this repo
 
-- **2-minute skim:** Read the [one-page summary](SUMMARY.md) → open the deck: [presentation/case_study_deck.pdf](presentation/case_study_deck.pdf).
-- **5-minute detail:** See the [Docs index](docs/README.md) for data source, assumptions, and notes.
-- **Queries:** Browse the [SQL index](sql/README.md). Files are grouped/numbered to mirror the slide flow (e.g., `10_*` season pulse, `20_*` team HRE, `30_*` channels, `40_*` pace, `42–52_*` conference/tier cuts).
+- **2-minute skim:** Read the [one-page summary](../SUMMARY.md) → open the deck: [presentation/case_study_presentation.pdf](../presentation/case_study_presentation.pdf).
+- **5-minute detail:** See the [Docs index](../docs/README.md) or browse the folder: [docs/](../docs/).
+- **Queries:** Browse the [SQL index](../sql/README.md) or list files: [sql/](../sql/). Files are grouped/numbered to mirror the slide flow (`10_*` season pulse, `20_*` team HRE, `30_*` channels, `40_*` pace, `42–52_*` tiers).
 - **Data source:** Google Cloud Public Datasets → [`bigquery-public-data.ncaa_basketball.mbb_games_sr`](https://console.cloud.google.com/marketplace/product/ncaa-bb-public/ncaa-basketball).
 
 ### Slide outline (skim)
