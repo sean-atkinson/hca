@@ -83,7 +83,6 @@ GROUP BY
 ORDER BY
   season;
 
-
 -- 43_conference_only_per_league_pivot.sql
 -- Purpose:
 --   Intra-conference only HRE: build team-season lifts using games where both teams are in the same conference,
@@ -175,6 +174,7 @@ conf_summary AS (
       WHEN conf_name = 'Mountain West'     THEN 'MWC'
       WHEN conf_name = 'West Coast'        THEN 'WCC'
       WHEN conf_name = 'Atlantic 10'       THEN 'A-10'
+      WHEN conf_name = 'Missouri Valley'   THEN 'MVC'
       ELSE 'Other D-I'
     END AS conference_group,
     ROUND(AVG(points_lift), 2) AS mean_points_lift,
