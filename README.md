@@ -1,7 +1,10 @@
+<!-- Hero / branding -->
 <p align="center">
-  <a href="presentation/case_study_deck.pdf">
-    <img src="docs/hero_final_four.jpg" alt="NCAA Final Four court graphic with shot dots" width="100%">
+  <a href="https://console.cloud.google.com/marketplace/product/ncaa-bb-public/ncaa-basketball">
+    <img src="docs/hero_final_four.jpg" alt="NCAA Basketball public dataset — shot chart on Final Four court" width="720">
   </a>
+  <br>
+  <sup><em>Image: NCAA Basketball — Google Cloud Public Datasets.</em></sup>
 </p>
 
 # Home Court Advantage in NCAA Basketball: The Unintended Consequence of Rule Changes
