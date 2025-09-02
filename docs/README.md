@@ -1,7 +1,7 @@
 # Docs index
 Narrative + methodology that support the deck and SQL.
 
-**Quick links:** [One-page project summary](../SUMMARY.md) • [Slides (PDF)](../presentation/case_study_deck.pdf) • [SQL index](../sql/README.md) • [Notes summary](NOTES.md) • [Full working notes](WORKING_NOTES_FULL.md)
+**Quick links:** [One-page project summary](../SUMMARY.md) • [Slides (PDF)](../presentation/case_study_presentation.pdf) • [SQL index](../sql/README.md) • [Notes summary](NOTES.md) • [Full working notes](WORKING_NOTES_FULL.md)
 
 **If you only have 5–10 minutes**
 1) Read `SUMMARY.md`
