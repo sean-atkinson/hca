@@ -45,6 +45,14 @@ Systematic investigation ruled out traditional explanations:
 - **Normalization**: Team-season level analysis (≥8 home & ≥8 road games)
 - **Robustness**: Multiple analytical approaches (season pulse, paired swaps, conference-only cuts)
 
+## Why this window (2014–2017)?
+
+- **One clean “shock.”** I scoped around the 2015–16 rules bundle to get a clear **before / during / after** read without mixing eras.  
+- **Cuts confounders.** A 5–10 year window pulls in style cycles, realignment, coaching changes, and schedule mix—diluting the signal.  
+- **Hypothesis first.** I chose the window **before** analysis by scanning NCAA rule changes and picking the biggest policy shift—question-led, not data-mined.
+
+**What this is (and isn’t):** a **descriptive nowcast** of what moved alongside the 2015–16 changes; **not** a causal proof. Broader validation is outlined in **What’s Next**.
+
 ## Data source
 
 - **Dataset:** `bigquery-public-data.ncaa_basketball` (Google Cloud Public Datasets)
@@ -85,7 +93,6 @@ where **σ** = season standard deviation of final margins.
 - For any season with spread **σ** (the standard deviation of final margins), the curve is a stretched version, so the **height at 0 ≈ 0.4/σ**.  
 
 **Therefore:** Near a 50/50 game, each 1-point change shifts win probability by about **0.4/σ**.
-
 
 **Key Insight**: Environmental advantages don't automatically survive structural changes. Even when individual performance metrics remain stable, overall competitive dynamics can shift due to systemic factors.
 
