@@ -207,7 +207,7 @@
 
 **Basketball Interpretation**: The 2015-16 rules bundle acted like a system shock, but each league adapted differently depending on referees, venues, geography, and playing style:
 - **ACC/AAC**: Home edge rose (fast, athletic styles benefited from quicker pace)
-- **Pac-12/MWC/A-10**: Sharp declines (travel fatigue and grind-heavy styles lost their bite under faster pace)
+- **Pac-12/MWC/A-10**: Sharp declines (potential factors could include travel fatigue and grind-heavy styles being less effective under faster pace)
 - **Other D-I**: Dragged national average down through sheer volume
 
 **The MWC Case Study**: Mountain West's home edge declined sharply (10.0 → 5.9 points). Plausible factor: altitude and travel fatigue used to exaggerate home edges, but the faster pace + more possessions environment reduced the relative penalty of fatigue on visiting teams. Both sides tire more evenly now, shrinking the gap.
@@ -296,16 +296,17 @@
 **The Policy Shift (Cause)**:
 2015-16 NCAA reforms implemented 30-second shot clock, restricted arc changes, and timeout reductions. Official intent was to speed up pace, reduce stoppages, and improve game flow.
 
-**How It Worked (Mechanism)**:
-- Faster pace = more possessions per game
-- More possessions = talent differences show more clearly, venue factors carry less weight
-- Fewer stoppages = refs call fewer "borderline" whistles, less room for home bias
-- Net result: Games tightened (σ dropped), each possession mattered more—but home teams didn't stretch that advantage
+**What We Observed**:
+- Games sped up significantly (64 → 71 possessions per team-game)
+- Home teams maintained a small tempo advantage that actually grew slightly
+- Road teams' scoring increased more than home teams' scoring (+9.3 ppg vs +6.1 ppg)
+- Game variance compressed (σ dropped from ~25 to ~17 points), creating tighter contests
+- Traditional home advantages (shooting, free throws, fouls) remained stable
 
 **What We Measured (Effect)**:
 - National Home-Road Edge dropped ~3.7 points (~1.9-point venue effect)
-- In tight games, that's ~4-5% lower home win chance
-- Not uniform: ACC/Big Ten actually rose; Pac-12/MWC fell hard; Power Six held while everyone else declined
+- In tight games, that's ~4-5 percentage points lower home win chance
+- Not uniform: ACC/Big Ten actually rose; Pac-12/MWC fell hard; Power Six as a whole held while everyone else declined
 
 ### The Delayed Impact Mystery
 
