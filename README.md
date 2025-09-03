@@ -80,7 +80,12 @@ where **σ** = season standard deviation of final margins.
 - Examples: σ≈23.3 → ~**1.7% per point**; σ≈17.4 → ~**2.3% per point**.  
 - Implication here: a ~1.9-point venue change ≈ **3–4.5 pp** in win probability (depending on σ).
 
-**Why this works**: Final margins are roughly bell-shaped; near a 50/50 game the curve’s peak slope is ~0.4, and scaling by **σ** gives the per-point effect.
+**Why this works:** Final margins are roughly bell-shaped (normal).  
+- For the **standard normal curve** (mean 0, SD 1), the **probability density at 0** is about **0.4**.  
+- For any season with spread **σ** (the standard deviation of final margins), the curve is a stretched version, so the **height at 0 ≈ 0.4/σ**.  
+
+**Therefore:** Near a 50/50 game, each 1-point change shifts win probability by about **0.4/σ**.
+
 
 **Key Insight**: Environmental advantages don't automatically survive structural changes. Even when individual performance metrics remain stable, overall competitive dynamics can shift due to systemic factors.
 
