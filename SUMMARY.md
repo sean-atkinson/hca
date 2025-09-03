@@ -2,7 +2,9 @@
 A short case study on NCAA D-I men’s hoops (2014–2017) asking: what changed about home-court advantage after the 2015–16 rule bundle?
 
 ## What I did
-Built a clean, reproducible slice (no tournaments/neutral sites), normalized at the team-season level (≥8H/≥8A), then tracked the home–road edge (HRE) and the usual levers (fouls, FT rate, turnovers, rebounds, shooting, pace). I also split results by tier: Power Six / Mid-Majors / Other D-I.
+Built a clean, reproducible slice (no tournaments/neutral sites), normalized at the team-season level (≥8H/≥8A), then tracked the home–road edge (HRE) and the usual levers (fouls, FT rate, turnovers, rebounds, shooting, pace). 
+
+I also split results by tier: Power Six / Mid-Majors / Other D-I.
 
 ## What I found
 - Pace jumped immediately; a small home tempo edge remained.
