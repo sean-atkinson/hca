@@ -62,6 +62,7 @@ Systematic investigation ruled out traditional explanations:
   `h_/a_ FGA/FGM`, `h_/a_ FTA`, `h_/a_ 3PA/3PM`, `h_/a_ turnovers`, `h_/a_ rebounds`
 - **Filters used:** seasons **2014–2016** (labels: **2014–15, 2015–16, 2016–17**); regular season only; **exclude** tournaments & neutral sites
 - **Notes:** `neutral_site` mostly NULL in 2014–15 and 2015–16 → treated NULL as non-neutral (sensitivity checked)
+- **Neutral-site sensitivity:** In **2016–17**, including neutral games trimmed home margin by ≈**0.4** pts (team lift ≈**0.5**). Because **2014–15** and **2015–16** lack neutral flags (treated NULL as non-neutral), pre-period HRE is likely slightly **understated**, so the reported decline is **conservative** (true drop probably a bit larger)
 - **Accessed:** Aug 2025
 
 > Data hosted by Google Cloud Public Datasets; see Marketplace page for terms/attribution.
