@@ -64,7 +64,7 @@
 **Reporting Framework**: 
 - **HRE** = difference in margins between home and road games (our working metric)
 - **HCA** (venue effect) ≈ HRE ÷ 2 (classical interpretation)
-- **Presentation language**: "The Home-Road Edge dropped ~3.7 points (≈1.9-point venue effect). That translates to ~4-5 percentage points less home win chance in close games."
+- **Presentation language**: "The Home–Road Edge fell by ~3.7 points (≈1.9-point venue effect), which translates to roughly a 4–5 percentage-point drop in home win chance in close games."
 
 ### Conference Heterogeneity (Query 21_conference_lift_pivot.sql)
 
