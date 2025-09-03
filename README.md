@@ -9,7 +9,7 @@
 
 # Home Court Advantage in NCAA Basketball: The Unintended Consequence of Rule Changes
 
-**Quick links:** [One-page summary](SUMMARY.md) • [Slides (PDF)](presentation/case_study_presentation.pdf) • [SQL folder](sql/README.md)
+**Quick links:** [One-page summary](SUMMARY.md) • [Slides (PDF)](presentation/case_study_presentation.pdf) • [SQL folder](sql/README.md) • [Visuals (PNGs)](visuals/)
 
 ## What This Is
 A comprehensive analysis examining how NCAA rule changes in 2015-16 coincided with unexpected shifts in home court advantage across Division I men's basketball.
@@ -102,6 +102,7 @@ where **σ** = season standard deviation of final margins.
 /sql/           # all queries (setup, season pulse, team HRE, channels, tiers, swaps)
 /presentation/  # final deck (PDF)
 /docs/          # short notes (observations + working)
+/visuals/       # chart-only PNGs exported from the deck (2× from Canva)
 /README.md      # this file
 /SUMMARY.md     # 1-page recap
 ```
