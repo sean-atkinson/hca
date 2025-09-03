@@ -72,9 +72,15 @@ Systematic investigation ruled out traditional explanations:
 
 ## Technical Implementation
 
-**Primary Metric**: Home-Road Edge (HRE) = avg home margin - avg road margin  
-**Venue Effect**: ≈ HRE ÷ 2 (classical interpretation)  
-**Win Probability Impact**: ~1.7 percentage points per point of margin  
+**Primary metric**: Home–Road Edge (HRE) = avg home margin − avg road margin  
+**Venue effect**: ≈ HRE ÷ 2 (classical interpretation)  
+
+**Win probability (quick rule)**: Each point changes win chance by about **0.4 ÷ σ**,  
+where **σ** = season standard deviation of final margins.  
+- Examples: σ≈23.3 → ~**1.7% per point**; σ≈17.4 → ~**2.3% per point**.  
+- Implication here: a ~1.9-point venue change ≈ **3–4.5 pp** in win probability (depending on σ).
+
+**Why this works**: Final margins are roughly bell-shaped; near a 50/50 game the curve’s peak slope is ~0.4, and scaling by **σ** gives the per-point effect.
 
 **Key Insight**: Environmental advantages don't automatically survive structural changes. Even when individual performance metrics remain stable, overall competitive dynamics can shift due to systemic factors.
 
