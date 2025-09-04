@@ -163,7 +163,7 @@
 **The Hypothesis**: If home edge softened, we should see cracks in the obvious places—whistles (fouls/FT rate), ball security (turnovers), effort (rebounding), or shooting comfort.
 
 **The Shocking Results**:
-- **Free throws & fouls**: No change. Home FT rate stable (~+0.05 lift), foul gap stable (~-1.7 calls per game). The "home whistle" story doesn't explain the drop.
+- **Free throws & fouls**: No change. Home FT rate stable (~ +0.05 lift), foul gap stable (~ -1.7 calls per game). The "home whistle" story doesn't explain the drop.
 - **Shooting percentages**: Stable. Home teams still shoot ~+3-4pp better on 2s, ~+1pp better on 3s, across all seasons. Comfort boost didn't shrink.
 - **Turnovers**: Stable. Teams commit ~0.7 fewer turnovers at home. Cushion persists unchanged post-2016.
 - **Rebounds**: Negligible gaps (~0), no trends across years.
