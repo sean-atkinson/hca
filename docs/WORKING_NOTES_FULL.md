@@ -285,7 +285,7 @@
 
 **Basketball Interpretation**: Elite programs adapted better thanks to talent depth, travel budgets, and coaching infrastructure that insulated their home edge. Mid-majors and smaller leagues lost traditional boosts like travel fatigue effects, altitude quirks, and grind-heavy styles as pace increased.
 
-**Business Insight**: Default home bump nationally (~2 points) masks crucial tier splits. For modeling, use stronger adjustments (~+3 points) for Power Six and weaker ones (~+1 point or less) for non-Power conferences.
+**Business Insight**: Default home bump nationally (~ 2 points) masks crucial tier splits. For modeling, use stronger adjustments (~ +3 points) for Power Six and weaker ones (~ +1 point or less) for non-Power conferences.
 
 ---
 
