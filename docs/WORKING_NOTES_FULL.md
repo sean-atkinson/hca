@@ -44,7 +44,7 @@
 - **σ (spread of margins)** = how much game results vary around that average—think "typical swing of results"
 - **Points-to-Win Translation Factor** = how much a single point is worth in win probability near even games
 
-**The Revelation**: The drop from σ = 25 to σ = 17 meant games became dramatically tighter with fewer blowouts. Because games tightened up in 2016-17, each point of home-court edge mattered more. The ~3.7-point decline in HRE corresponded to an 8-9 percentage-point drop in win chance (versus only 5-6pp in earlier years).
+**The Revelation**: The drop from σ = 25 to σ = 17 meant games became dramatically tighter with fewer blowouts. Because games tightened up in 2016-17, each point of home-court edge mattered more. HRE fell ~3.7 points. Per game, the venue effect dropped ~1.9 points—about ~3–4.5 pp less home win chance in close games..
 
 ### Team-Level Normalization (Query 20_team_lift.sql)
 
